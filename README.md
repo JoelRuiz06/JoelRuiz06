@@ -1,15 +1,15 @@
 <h1 align="center">Hola, soy Joel José Ruiz 👋</h1>
 
-<h3 align="center">Técnico SMR · Estudiante de DAW · Sevilla</h3>
+<h3 align="center">Técnico en Sistemas Microinformáticos y Redes · Estudiante de DAW</h3>
 
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br>
 
 - 🎓 Cursando **DAW** en IES Jacarandá (Brenes, Sevilla)
+- 💼 Prácticas en **Andalucía Emprende** y experiencia en **Milán**
 - 🛠️ Me gusta el soporte técnico, sistemas y el desarrollo web
-- 🖥️ Experiencia en administración de sistemas: Linux, Active Directory, XAMPP
-- 📫 **joelruizm06@gmail.com**
+- 📫 Contacto: **joelruizm06@gmail.com**
 
 <br>
 
