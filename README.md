@@ -13,6 +13,8 @@
 
 <br>
 
+***
+
 <h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -27,7 +29,29 @@
   <a href="https://wordpress.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/></a>
 </p>
 
-<br>
+***
+
+<h3 align="left">💼 Experiencia:</h3>
+
+- 🎓 **NTT DATA** — Formación técnica: SQL, Frontend, IA (2026, Sevilla)
+- 🏢 **Andalucía Emprende** — Técnico informático: administración de sistemas, resolución de incidencias (2025, Sevilla)
+- 🇮🇹 **Elettromik** — Técnico de reparación informática: montaje y mantenimiento de equipos (2024, Milán)
+- 🌐 **Dolphincity** — Técnico de desarrollo: creación de sitios web en WordPress (2024, Milán)
+
+***
+
+<h3 align="left">📌 Proyectos:</h3>
+
+- 🔗 [Mi Portfolio](https://github.com/JoelRuiz06/Mi-Portfolio)
+- 🔗 [BD - Base de Datos](https://github.com/JoelRuiz06/BD)
+- 🔗 [HLC-2SMR](https://github.com/JoelRuiz06/HLC-2SMR)
+
+### 🤝 Proyectos colaborativos
+
+- 🔗 [PetSwipe](https://github.com/jmtapia96/PetSwipe) — App web de adopción de mascotas (HTML · CSS · JS)
+- 🔗 [DOM-WARS](https://github.com/LemonArte/DOM-WARS) — Juego con manipulación del DOM (JavaScript)
+
+***
 
 <hr width="40%">
 
