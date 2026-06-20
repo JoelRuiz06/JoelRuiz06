@@ -7,7 +7,6 @@
 <br>
 
 - 🎓 Cursando **DAW** en IES Jacarandá (Brenes, Sevilla)
-- 💼 Prácticas en **Andalucía Emprende** y experiencia en **Milán**
 - 🛠️ Me gusta el soporte técnico, sistemas y el desarrollo web
 - 📫 Contacto: **joelruizm06@gmail.com**
 
