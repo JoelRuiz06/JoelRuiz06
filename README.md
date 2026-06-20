@@ -8,6 +8,7 @@
 
 - 🎓 Cursando **DAW** en IES Jacarandá (Brenes, Sevilla)
 - 🛠️ Me gusta el soporte técnico, sistemas y el desarrollo web
+- 🖥️ Experiencia en administración de sistemas: Linux, Active Directory, XAMPP
 - 📫 **joelruizm06@gmail.com**
 
 <br>
@@ -27,9 +28,7 @@
   <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://wordpress.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/></a>
-  <a href="https://www.apachefriends.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" alt="xampp" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank"><img src="https://github.com/user-attachments/assets/49f5ff26-6049-4f31-ac17-7e647656c8ff" alt="active directory" width="40" height="40"/></a>
 </p>
 
 ***
