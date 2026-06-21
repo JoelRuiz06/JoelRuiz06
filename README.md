@@ -48,4 +48,4 @@
 
 <hr width="40%">
 
-[LinkedIn](www.linkedin.com/in/joel-josé-ruiz-marcote-b8b716395) · [joelruizm06@gmail.com](mailto:joelruizm06@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joel-jos%C3%A9-ruiz-marcote-b8b716395/?skipRedirect=true) · [joelruizm06@gmail.com](mailto:joelruizm06@gmail.com)
